@@ -41,4 +41,4 @@ The idea for the project's aim, is to be developed on a mobile app and, on a int
 
 **5.Installation Guide**
 
--TBD-
+To try out the app you can either install the APK on an Android device or import the .aia files to App Inventor 2. Make sure to enable "Unknown sources" on your Android device, if you devide to install the APK.
